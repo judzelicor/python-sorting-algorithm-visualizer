@@ -1,0 +1,5 @@
+# MacOS Generated Files
+.DS_Store
+
+# Cache Files
+__pycache__
